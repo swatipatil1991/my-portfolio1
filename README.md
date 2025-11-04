@@ -1,1 +1,2 @@
-REACT
+This repo contains my portfolio website.
+
